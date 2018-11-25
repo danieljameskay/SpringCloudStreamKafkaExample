@@ -9,3 +9,7 @@ class SpringCloudStreamKafkaExampleApplication
 fun main(args: Array<String>) {
     runApplication<SpringCloudStreamKafkaExampleApplication>(*args)
 }
+
+
+
+
